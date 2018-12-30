@@ -1,0 +1,12 @@
+.screen{
+    text-align:right;
+    font-weight:200;
+    flex :0 0 auto;
+    background-color: grey;
+    color:white;
+    width:100%;
+}
+.screen > div{
+    font-size:7.3rem;
+    padding: 0.2rem 0.7rem 0.1rem 0.5rem;
+}
